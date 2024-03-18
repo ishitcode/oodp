@@ -1,2 +1,2 @@
-# oodp
-OODP College Project On "Travel Assitant"
+# oops
+OOPs College Project On "Travel Assitant"
